@@ -53,7 +53,7 @@ return stadiumPick;
 string GetGameRecommendation()
 {
 if(stadiumPick == "Neyland Stadium"){
-    gameP = "Tennesee vs Kent State";
+    gameP = "Tennessee vs Kent State";
 }
 else if(stadiumPick == "Jordan-Hare Stadium"){
     gameP = "Auburn vs Kentucky";
